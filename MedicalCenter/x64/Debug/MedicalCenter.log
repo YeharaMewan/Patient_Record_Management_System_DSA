@@ -1,0 +1,10 @@
+﻿  MedicalCenter.cpp
+  Patient.cpp
+  PatientRecordSystem.cpp
+  Generating Code...
+C:\Users\Yehara\Desktop\sem 03\DSA Project\MedicalCenter_08_edited\MedicalCenter_08\MedicalCenter\MedicalCenter\MedicalCenter\dataValidation.h(67): warning C4715: 'validateChoice': not all control paths return a value
+C:\Users\Yehara\Desktop\sem 03\DSA Project\MedicalCenter_08_edited\MedicalCenter_08\MedicalCenter\MedicalCenter\MedicalCenter\dataValidation.h(91): warning C4715: 'validateAvalableQuientity': not all control paths return a value
+C:\Users\Yehara\Desktop\sem 03\DSA Project\MedicalCenter_08_edited\MedicalCenter_08\MedicalCenter\MedicalCenter\MedicalCenter\dataValidation.h(52): warning C4715: 'validateAge': not all control paths return a value
+C:\Users\Yehara\Desktop\sem 03\DSA Project\MedicalCenter_08_edited\MedicalCenter_08\MedicalCenter\MedicalCenter\MedicalCenter\dataValidation.h(28): warning C4715: 'validateRegistaionNumber': not all control paths return a value
+C:\Users\Yehara\Desktop\sem 03\DSA Project\MedicalCenter_08_edited\MedicalCenter_08\MedicalCenter\MedicalCenter\MedicalCenter\dataValidation.h(115): warning C4715: 'validatePrice': not all control paths return a value
+  MedicalCenter.vcxproj -> C:\Users\Yehara\Desktop\sem 03\DSA Project\MedicalCenter_08_edited\MedicalCenter_08\MedicalCenter\MedicalCenter\x64\Debug\MedicalCenter.exe

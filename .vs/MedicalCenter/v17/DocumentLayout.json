@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\FOLDER_A_My Academics\\SEMESTER_3\\Semester3\\EE3351 Data Structures and Algorithms\\Group project\\DSA project\\MedicalCenter_08_edited\\MedicalCenter_08\\MedicalCenter\\MedicalCenter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\FOLDER_A_My Academics\\SEMESTER_3\\Semester3\\EE3351 Data Structures and Algorithms\\Group project\\DSA project\\MedicalCenter_08_edited\\MedicalCenter_08\\MedicalCenter\\MedicalCenter\\MedicalCenter\\MedicineRecordSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MedicalCenter\\MedicineRecordSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\FOLDER_A_My Academics\\SEMESTER_3\\Semester3\\EE3351 Data Structures and Algorithms\\Group project\\DSA project\\MedicalCenter_08_edited\\MedicalCenter_08\\MedicalCenter\\MedicalCenter\\MedicalCenter\\PatientRecordSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MedicalCenter\\PatientRecordSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\FOLDER_A_My Academics\\SEMESTER_3\\Semester3\\EE3351 Data Structures and Algorithms\\Group project\\DSA project\\MedicalCenter_08_edited\\MedicalCenter_08\\MedicalCenter\\MedicalCenter\\MedicalCenter\\MedicalCenter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MedicalCenter\\MedicalCenter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\FOLDER_A_My Academics\\SEMESTER_3\\Semester3\\EE3351 Data Structures and Algorithms\\Group project\\DSA project\\MedicalCenter_08_edited\\MedicalCenter_08\\MedicalCenter\\MedicalCenter\\MedicalCenter\\Patient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MedicalCenter\\Patient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\FOLDER_A_My Academics\\SEMESTER_3\\Semester3\\EE3351 Data Structures and Algorithms\\Group project\\DSA project\\MedicalCenter_08_edited\\MedicalCenter_08\\MedicalCenter\\MedicalCenter\\MedicalCenter\\Medicines.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MedicalCenter\\Medicines.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\FOLDER_A_My Academics\\SEMESTER_3\\Semester3\\EE3351 Data Structures and Algorithms\\Group project\\DSA project\\MedicalCenter_08_edited\\MedicalCenter_08\\MedicalCenter\\MedicalCenter\\MedicalCenter\\dataValidation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MedicalCenter\\dataValidation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 189,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MedicineRecordSystem.h",
+              "DocumentMoniker": "G:\\FOLDER_A_My Academics\\SEMESTER_3\\Semester3\\EE3351 Data Structures and Algorithms\\Group project\\DSA project\\MedicalCenter_08_edited\\MedicalCenter_08\\MedicalCenter\\MedicalCenter\\MedicalCenter\\MedicineRecordSystem.h",
+              "RelativeDocumentMoniker": "MedicalCenter\\MedicineRecordSystem.h",
+              "ToolTip": "G:\\FOLDER_A_My Academics\\SEMESTER_3\\Semester3\\EE3351 Data Structures and Algorithms\\Group project\\DSA project\\MedicalCenter_08_edited\\MedicalCenter_08\\MedicalCenter\\MedicalCenter\\MedicalCenter\\MedicineRecordSystem.h",
+              "RelativeToolTip": "MedicalCenter\\MedicineRecordSystem.h",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-14T02:43:38.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientRecordSystem.h",
+              "DocumentMoniker": "G:\\FOLDER_A_My Academics\\SEMESTER_3\\Semester3\\EE3351 Data Structures and Algorithms\\Group project\\DSA project\\MedicalCenter_08_edited\\MedicalCenter_08\\MedicalCenter\\MedicalCenter\\MedicalCenter\\PatientRecordSystem.h",
+              "RelativeDocumentMoniker": "MedicalCenter\\PatientRecordSystem.h",
+              "ToolTip": "G:\\FOLDER_A_My Academics\\SEMESTER_3\\Semester3\\EE3351 Data Structures and Algorithms\\Group project\\DSA project\\MedicalCenter_08_edited\\MedicalCenter_08\\MedicalCenter\\MedicalCenter\\MedicalCenter\\PatientRecordSystem.h",
+              "RelativeToolTip": "MedicalCenter\\PatientRecordSystem.h",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAAAIYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-14T02:43:38.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MedicalCenter.cpp",
+              "DocumentMoniker": "G:\\FOLDER_A_My Academics\\SEMESTER_3\\Semester3\\EE3351 Data Structures and Algorithms\\Group project\\DSA project\\MedicalCenter_08_edited\\MedicalCenter_08\\MedicalCenter\\MedicalCenter\\MedicalCenter\\MedicalCenter.cpp",
+              "RelativeDocumentMoniker": "MedicalCenter\\MedicalCenter.cpp",
+              "ToolTip": "G:\\FOLDER_A_My Academics\\SEMESTER_3\\Semester3\\EE3351 Data Structures and Algorithms\\Group project\\DSA project\\MedicalCenter_08_edited\\MedicalCenter_08\\MedicalCenter\\MedicalCenter\\MedicalCenter\\MedicalCenter.cpp",
+              "RelativeToolTip": "MedicalCenter\\MedicalCenter.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-14T02:43:38.746Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 211,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patient.h",
+              "DocumentMoniker": "G:\\FOLDER_A_My Academics\\SEMESTER_3\\Semester3\\EE3351 Data Structures and Algorithms\\Group project\\DSA project\\MedicalCenter_08_edited\\MedicalCenter_08\\MedicalCenter\\MedicalCenter\\MedicalCenter\\Patient.h",
+              "RelativeDocumentMoniker": "MedicalCenter\\Patient.h",
+              "ToolTip": "G:\\FOLDER_A_My Academics\\SEMESTER_3\\Semester3\\EE3351 Data Structures and Algorithms\\Group project\\DSA project\\MedicalCenter_08_edited\\MedicalCenter_08\\MedicalCenter\\MedicalCenter\\MedicalCenter\\Patient.h",
+              "RelativeToolTip": "MedicalCenter\\Patient.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-14T02:43:38.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Medicines.h",
+              "DocumentMoniker": "G:\\FOLDER_A_My Academics\\SEMESTER_3\\Semester3\\EE3351 Data Structures and Algorithms\\Group project\\DSA project\\MedicalCenter_08_edited\\MedicalCenter_08\\MedicalCenter\\MedicalCenter\\MedicalCenter\\Medicines.h",
+              "RelativeDocumentMoniker": "MedicalCenter\\Medicines.h",
+              "ToolTip": "G:\\FOLDER_A_My Academics\\SEMESTER_3\\Semester3\\EE3351 Data Structures and Algorithms\\Group project\\DSA project\\MedicalCenter_08_edited\\MedicalCenter_08\\MedicalCenter\\MedicalCenter\\MedicalCenter\\Medicines.h",
+              "RelativeToolTip": "MedicalCenter\\Medicines.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-14T02:43:38.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dataValidation.h",
+              "DocumentMoniker": "G:\\FOLDER_A_My Academics\\SEMESTER_3\\Semester3\\EE3351 Data Structures and Algorithms\\Group project\\DSA project\\MedicalCenter_08_edited\\MedicalCenter_08\\MedicalCenter\\MedicalCenter\\MedicalCenter\\dataValidation.h",
+              "RelativeDocumentMoniker": "MedicalCenter\\dataValidation.h",
+              "ToolTip": "G:\\FOLDER_A_My Academics\\SEMESTER_3\\Semester3\\EE3351 Data Structures and Algorithms\\Group project\\DSA project\\MedicalCenter_08_edited\\MedicalCenter_08\\MedicalCenter\\MedicalCenter\\MedicalCenter\\dataValidation.h",
+              "RelativeToolTip": "MedicalCenter\\dataValidation.h",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-14T02:43:38.753Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
